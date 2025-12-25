@@ -2,8 +2,8 @@
 
 ### :man_technologist: About Me :
 - :telescope: I am currently working on Unity Project 2d and 3D, Cocos 2D Typescripts
-/n
-In the near future, i will switch into Shopify, Work with Database, etc..
+
+- In the near future, i will switch into Shopify, Work with Database, etc..
 
 - :seedling: Exploring Technical Content Writing.
 
