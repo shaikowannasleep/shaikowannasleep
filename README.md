@@ -93,23 +93,29 @@ Gradually expanding toward **Web Full-Stack & Shopify development**, with emphas
 
 ---
 
-## 📊 GitHub Stats
-
-<table align="center">
-  <tr>
-    <td width="20%" align="center">
-      <img src="https://media.giphy.com/media/yedDQGWwq0heU/giphy.gif" width="100%" />
-    </td>
-    <td width="60%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=shaikowannasleep&show_icons=true&theme=onedark&hide_border=true" />
-      <br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikowannasleep&layout=compact&theme=onedark&hide_border=true" />
-    </td>
-    <td width="20%" align="center">
-      <img src="https://media.giphy.com/media/yedDQGWwq0heU/giphy.gif" width="100%" />
-    </td>
-  </tr>
+### 🔬 Selected Work
+<table align="center" border="0">
+<tr>
+<td width="20%" align="center" valign="center">
+<img src="https://media.giphy.com/media/yedDQGWwq0heU/giphy.gif" width="120" alt="Demo GIF Left" />
+</td>
+<td width="60%" align="center" valign="center">
+<strong>🕹️ Unity Playable Ads (Luna / WebGL)</strong>
+<br/>
+Lightweight playable under 5MB
+<br/>
+Code-driven animation, optimized load time
+<br/><br/>
+<a href="https://github.com/shaikowannasleep/ScrewOut_V32">
+<img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</td>
+<td width="20%" align="center" valign="center">
+<img src="https://media.giphy.com/media/yedDQGWwq0heU/giphy.gif" width="120" alt="Demo GIF Right" />
+</td>
+</tr>
 </table>
+
 
 
 ---
