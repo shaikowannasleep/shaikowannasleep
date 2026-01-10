@@ -90,7 +90,7 @@ Gradually expanding toward **Web Full-Stack & Shopify development**, with emphas
 ## 🎮 Games I Like
 <a href="https://www.leagueoflegends.com/" target="_blank">![League of Legends](https://img.shields.io/badge/League%20of%20Legends-0A1428?style=for-the-badge&logo=riotgames&logoColor=gold)</a>
 <a href="https://wutheringwaves.kurogames.com/" target="_blank">![Wuthering Waves](https://img.shields.io/badge/Wuthering%20Waves-1A1A1A?style=for-the-badge)</a>
-<a href="https://store.steampowered.com/app/3024580/REPO/" target="_blank">![R.E.P.O](https://img.shields.io/badge/R.E.P.O-2D2D2D?style=for-the-badge)</a>
+<a href="https://store.steampowered.com/app/3241660/" target="_blank">![R.E.P.O](https://img.shields.io/badge/R.E.P.O-2D2D2D?style=for-the-badge)</a>
 <a href="https://pgr.kurogame.net/" target="_blank">![Punishing Gray Raven](https://img.shields.io/badge/Punishing%20Gray%20Raven-B71C1C?style=for-the-badge)</a>
 
 ---
