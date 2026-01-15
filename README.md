@@ -49,7 +49,7 @@ Gradually expanding toward **Web Full-Stack & Shopify development**, with emphas
 ---
 
 ### 📊 Ad Tracking & Analytics
-![InsighTrackr](https://img.shields.io/badge/InsighTrackr-6C63FF?style=for-the-badge)
+<a href="https://www.insightrackr.com/en/" target="_blank">![InsighTrackr](https://img.shields.io/badge/InsighTrackr-6C63FF?style=for-the-badge)</a>
 <a href="https://marketingplatform.google.com/about/analytics/" target="_blank">![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)</a>
 <a href="https://www.applovin.com/max/" target="_blank">![AppLovin MAX](https://img.shields.io/badge/AppLovin%20MAX-000000?style=for-the-badge&logo=applovin&logoColor=white)</a>
 <a href="https://firebase.google.com/" target="_blank">![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)</a>
