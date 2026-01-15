@@ -3,7 +3,13 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=shaikowannasleep&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views counter" />
-</div>
+</div> 
+
+---
+
+📫 **Contact me now**  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dinhdungvan)  *  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/dungcaodeptrai)
 
 ---
 ### 👨‍💻 About Me
@@ -18,13 +24,10 @@ My primary experience lies in **Unity (Luna / WebGL)** and **Cocos Creator**, wi
 Crafting Playable Ads under strict constraints on **memory usage, startup latency, and first-interaction time**, aligned with real ad-network requirements.
 
 🌱 **Learning Direction**  
+
 Gradually expanding toward **Web Full-Stack & Shopify development**, with emphasis on backend fundamentals, databases, and system-level thinking.
 
-📫 **Contact**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dinhdungvan)  
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/dungcaodeptrai)
 
----
 ---
 
 ## 💻 Tech Stack
