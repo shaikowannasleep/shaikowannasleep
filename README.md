@@ -120,7 +120,7 @@ Lightweight playable under 5MB
 <br/>
 Code-driven animation, optimized load time
 <br/><br/>
-<a href="https://github.com/shaikowannasleep/ScrewOut_V32">
+<a href="[https://github.com/shaikowannasleep/ScrewOut_V32](https://github.com/shaikowannasleep/Idle-Army-Trading-Weapons)">
 <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </td>
